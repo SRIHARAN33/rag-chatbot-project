@@ -1,0 +1,90 @@
+{
+  "summary": {
+    "avg_accuracy": 0.9667,
+    "avg_contextual_relevance": 0.5157,
+    "avg_latency_seconds": 0.0149,
+    "total_queries": 10
+  },
+  "per_query_results": [
+    {
+      "question": "How do I return a product?",
+      "answer": "You can return any product within 30 days of purchase. Visit our Returns Portal at returns.example.c...",
+      "accuracy": 1.0,
+      "relevance": 0.568,
+      "latency": 0.009,
+      "sources_retrieved": 3
+    },
+    {
+      "question": "What is the refund policy?",
+      "answer": "Refunds are processed within 5-7 business days after we receive the returned item. The refund will b...",
+      "accuracy": 1.0,
+      "relevance": 0.484,
+      "latency": 0.011,
+      "sources_retrieved": 3
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "You can track your order by logging into your account and visiting Order History. You will also rece...",
+      "accuracy": 0.667,
+      "relevance": 0.567,
+      "latency": 0.012,
+      "sources_retrieved": 3
+    },
+    {
+      "question": "What payment methods are accepted?",
+      "answer": "We accept Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and UPI. All transactio...",
+      "accuracy": 1.0,
+      "relevance": 0.458,
+      "latency": 0.021,
+      "sources_retrieved": 3
+    },
+    {
+      "question": "How do I reset my password?",
+      "answer": "Click 'Forgot Password' on the login page, enter your email address, and you will receive a reset li...",
+      "accuracy": 1.0,
+      "relevance": 0.479,
+      "latency": 0.014,
+      "sources_retrieved": 3
+    },
+    {
+      "question": "How long does shipping take?",
+      "answer": "Standard shipping takes 5-7 business days. Express shipping (2-3 days) and Next-Day delivery are als...",
+      "accuracy": 1.0,
+      "relevance": 0.499,
+      "latency": 0.013,
+      "sources_retrieved": 3
+    },
+    {
+      "question": "How do I cancel my order?",
+      "answer": "Orders can be cancelled within 1 hour of placement. Go to Order History, select the order, and click...",
+      "accuracy": 1.0,
+      "relevance": 0.582,
+      "latency": 0.02,
+      "sources_retrieved": 3
+    },
+    {
+      "question": "What do I do if I receive a damaged item?",
+      "answer": "Please take photos of the damage and contact our support team within 48 hours via the Help Center or...",
+      "accuracy": 1.0,
+      "relevance": 0.546,
+      "latency": 0.016,
+      "sources_retrieved": 3
+    },
+    {
+      "question": "How do I contact customer support?",
+      "answer": "You can reach us via Live Chat (available 24/7), email at support@example.com (response within 2 hou...",
+      "accuracy": 1.0,
+      "relevance": 0.556,
+      "latency": 0.018,
+      "sources_retrieved": 3
+    },
+    {
+      "question": "Do you offer a warranty?",
+      "answer": "All electronics and appliances come with a 1-year manufacturer warranty. Extended warranty plans of ...",
+      "accuracy": 1.0,
+      "relevance": 0.418,
+      "latency": 0.015,
+      "sources_retrieved": 3
+    }
+  ]
+}
