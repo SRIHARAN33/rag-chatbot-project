@@ -1,5 +1,5 @@
 # RAG-Based Customer Service Chatbot
-**GUVI | HCL — Gen AI Project**
+**Gen AI Project**
 
 ## Overview
 A Retrieval-Augmented Generation (RAG) chatbot powered by Google Gemini LLM and FAISS vector store for intelligent customer support automation.
